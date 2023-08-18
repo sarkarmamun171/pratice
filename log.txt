@@ -1,0 +1,1 @@
+[2023-08-18 01:56:57] This is a log message from FileLogger.
